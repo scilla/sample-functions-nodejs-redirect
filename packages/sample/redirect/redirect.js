@@ -2,9 +2,9 @@ function main(args) {
   return {
     'statusCode': 302,
     'headers': {
-      'Location': 'http://def.it'
+      'Location': 'https://instagram.com/stefanocilla'
     },
-    'body': ''
+    'body': 'redirecting...'
   }
 }
 

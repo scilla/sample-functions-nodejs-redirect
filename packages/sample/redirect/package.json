@@ -1,8 +1,8 @@
 {
   "name": "hello",
   "version": "1.0.0",
-  "description": "Hello world: NodeJs",
-  "main": "hello.js",
+  "description": "Simple Redirect in Node.js",
+  "main": "redirect.js",
   "scripts": {
     "test": "jest --coverage --runInBand --forceExit --verbose false"
   },
