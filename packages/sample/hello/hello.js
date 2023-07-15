@@ -1,8 +1,11 @@
 function main(args) {
-    let name = args.name || 'stranger'
-    let greeting = 'Hello ' + name + '!'
-    console.log(greeting)
-    return {"body": greeting}
+  return {
+    'statusCode': 302,
+    'headers': {
+      'Location': 'http://def.it'
+    },
+    'body': ''
   }
+}
 
 exports.main = main
