@@ -1,4 +1,4 @@
-# Sample Function: Node.js "Hello World"
+# Sample Function: Node.js Redirect302
 
 ## Introduction
 
@@ -16,7 +16,7 @@ This repository contains a sample function written in Node.js JavaScript. You ca
 During the beta, documentation for Serverless Functions will be available to beta participants only in the [Serverless Functions Closed Beta Google Doc](https://docs.google.com/document/d/1qhxnl4ndb0Jh2WkNnNLa2lAUo6u7EAfLyBlUsaPZA0Y). Please refer to this document for instructions on how to deploy Serverless Functions in App Platform.
 
 ## Using the Function
-Accessing the function with the `?name=` query parameter will greet the specified name. For example, `?name=Alice` will return  `Hello Alice`. Using no query parameters will return `Hello stranger`.
+Call it
 
 ### Learn More
 
